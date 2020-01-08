@@ -112,4 +112,4 @@ public:
 };
 //![plugin]
 
-/* #include "plugin.moc" */
+#include "plugin.moc"

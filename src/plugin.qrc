@@ -1,6 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>Clock.qml</file>
+        <file>qmldir</file>
         <file>center.png</file>
         <file>clock.png</file>
         <file>hour.png</file>
